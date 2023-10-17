@@ -7,5 +7,6 @@ public class Base2 {
         System.out.println("Afganistan");
         System.out.println("Arab");
         System.out.println("Palastain");
+        System.out.println("Garmany");
     }
 }
