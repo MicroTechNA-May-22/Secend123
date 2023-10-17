@@ -5,7 +5,6 @@ public class Base2 {
         System.out.println("Dhaka");
         System.out.println("Bangladesh");
         System.out.println("Barisal");
-        System.out.println("Kirgistan");
         System.out.println("Arab");
         System.out.println("Palastain");
         System.out.println("Garmany");
