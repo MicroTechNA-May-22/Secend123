@@ -2,10 +2,10 @@ package base;
 
 public class Base2 {
     public static void main(String[] args) {
-        System.out.println("KD");
-        System.out.println("Iran");
-        System.out.println("PK");
-        System.out.println("Mamun");
-        System.out.println("Canada");
+        System.out.println("Bangladesh");
+        System.out.println("Pakistan");
+        System.out.println("Afganistan");
+        System.out.println("Arab");
+        System.out.println("Palastain");
     }
 }
