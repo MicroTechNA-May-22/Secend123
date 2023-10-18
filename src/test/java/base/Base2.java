@@ -16,6 +16,8 @@ public class Base2 {
         int j= a/b;
         System.out.println(j);
         System.out.println("Ogbakistan");
+        int p=5;
+        int q=6;
         System.out.println("Koria");
         System.out.println("bismilla");
         System.out.println("Danmodi");
