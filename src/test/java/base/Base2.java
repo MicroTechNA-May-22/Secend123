@@ -14,6 +14,8 @@ public class Base2 {
         System.out.println("Srilonka");
         int e= a*b*c;
         System.out.println(e);
+        int j= a/b;
+        System.out.println(j);
         System.out.println("Commilla");
         System.out.println("Ogbakistan");
         System.out.println("Koria");
