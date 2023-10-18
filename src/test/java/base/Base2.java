@@ -21,11 +21,14 @@ public class Base2 {
         int g= a/b;
         System.out.println(g);
         System.out.println(e);
+        int j= a/b;
+        System.out.println(j);
         System.out.println("Commilla");
         System.out.println("Ogbakistan");
         System.out.println("Koria");
         System.out.println("bismilla");
         System.out.println("Danmodi");
+        System.out.println("Chack");
 
     }
 }
