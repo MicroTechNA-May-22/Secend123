@@ -5,14 +5,16 @@ public class Base2 {
         System.out.println("Dhaka");
         System.out.println("Bangladesh");
         System.out.println("Barisal");
-        System.out.println("Kirgistan");
         System.out.println("Arab");
+        int a=1;
+        int b=2;
         System.out.println("Palastain");
-        System.out.println("Garmany");
         System.out.println("London");
         System.out.println("Pakistan");
         System.out.println("Srilonka");
         System.out.println("Commilla");
         System.out.println("Ogbakistan");
+        System.out.println("Koria");
+        System.out.println("bismilla");
     }
 }
