@@ -21,6 +21,7 @@ public class Base2 {
         System.out.println("Koria");
         System.out.println("bismilla");
         System.out.println("Danmodi");
+        System.out.println("Chack");
 
     }
 }
