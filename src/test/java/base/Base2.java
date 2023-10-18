@@ -11,9 +11,6 @@ public class Base2 {
         int c = a+b;
         System.out.println(c);
         System.out.println("Palastain");
-        System.out.println("London");
-        System.out.println("Pakistan");
-        System.out.println("Srilonka");
         int e= a*b*c;
         System.out.println(e);
         int j= a/b;
