@@ -7,7 +7,6 @@ public class Base2 {
         System.out.println("Barisal");
         System.out.println("Arab");
         System.out.println("Palastain");
-        System.out.println("Japan");
         System.out.println("London");
         System.out.println("Pakistan");
         System.out.println("Srilonka");
